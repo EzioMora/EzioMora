@@ -40,7 +40,20 @@
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
   <!-- Github Icon -->
   <img src="https://i.ibb.co/rc3LGXT/oie-png-6.png" width="34px" height="34px">&nbsp;
-</div>
+</div></br>
+
+<!-- Cards -->
+<table align="center">
+  <row>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=EzioMora&layout=compact&theme=radical'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=EzioMora&count_private=true&show_icons=true?&theme=radical'>
+    </td>
+  </row>
+</table> 
+
 
 <!--
 **EzioMora/EzioMora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,9 +17,9 @@
 
 <!-- Description -->
 <p align="center">
-  Inicie no mundo da programação a finais de 2020 e sem dúvidas é a melhor decisão já tomada,</br> 
-  aprendi que <strong>"Sim se pode sonhar, se pode programar".</strong></br>
-  Atualmentea minha stack é <strong>Frontend Developer</strong> e pretedendo me aprimorar com a <strong>OmniStack (Node.js, ReactJS e React Native).</strong>
+   Inicie no mundo da programação a finais de 2020 e sem dúvidas é a melhor decisão já tomada,</br>
+   aprendi que <strong>"Sim se pode sonhar, se pode programar"</strong>.</br>
+   Atualmente a minha stack é <strong>ReactJS</strong> e pretendo me aprimorar com a <strong>OmniStack (Node.js, ReactJS e React Native)</strong>.
 </p></br>
 
 <!-- Skills -->

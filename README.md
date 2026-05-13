@@ -54,6 +54,10 @@
   </row>
 </table> 
 
+<a href="https://app.daily.dev/eziomora">
+   <img src="./devcard.png" width="356" alt="Ezio Mora's Dev Card"/>
+</a>
+
 
 <!--
 **EzioMora/EzioMora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
